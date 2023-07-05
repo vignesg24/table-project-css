@@ -1,0 +1,95 @@
+h1{
+   background-color: black;
+   color: white;
+   text-align: center;
+   padding: 10px; 
+}
+.button{
+    margin-left: 200px;
+}
+p{
+    margin-left: 20px;
+}
+ul{
+    margin-left: 30px;
+}
+.button1{
+    background-color: red;
+    padding: 10px;
+}
+.button2{
+    background-color: blue;
+    padding: 10px;
+}
+#image{
+    margin-left: 110px;
+}
+.button1:hover{
+    background-color: darkmagenta;
+    color: white;
+}
+.button2:hover{
+    background-color: blueviolet;
+    color:white ;
+}
+.border1{
+    background-color: #d3d3d3;
+    text-align: center;
+    box-shadow: 10px 12px 20px black ;
+}
+.border2{
+    background-color: #d3d3d3;
+    text-align: center;
+    box-shadow: 10px 12px 20px black ;
+}
+.border3{
+    background-color: #d3d3d3;
+    text-align: center;
+    box-shadow: 10px 12px 20px black ;
+}
+.border4{
+    background-color: #d3d3d3;
+    text-align: center;
+    box-shadow: 10px 12px 20px black ;
+}
+.table2{
+    margin-top: 50px;
+}
+.table2{
+text-align: center;
+}
+.border5{
+    background-color: #d3d3d3;
+    text-align: center;
+    box-shadow: 10px 12px 20px black ;
+}
+.border6{
+    background-color: #d3d3d3;
+    text-align: center;
+    box-shadow: 10px 12px 20px black ;
+}
+.border7{
+    background-color: #d3d3d3;
+    text-align: center;
+    box-shadow: 10px 12px 20px black ;
+}
+.border8{
+    background-color: #d3d3d3;
+    text-align: center;
+    box-shadow: 10px 12px 20px black ;
+}
+.h2{
+    text-align: center;
+    font-size: 40px;
+    background-color: rgb(158, 124, 124);
+    font: white;
+}
+.table4{
+    background-color:#d3d3d3;
+}  
+#copy{
+    text-align: center;
+    color: white;
+    background-color: black;
+    padding:10px;
+}
